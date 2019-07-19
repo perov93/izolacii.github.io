@@ -28,3 +28,12 @@ form .submit:hover{
 	background-color: #f44336;
 	cursor: pointer;
 }
+
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 980px) {
+	 .form-control, input[type=submit] {
+	  width: 100%;
+	  margin-top: 0;
+	}
+  }

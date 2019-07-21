@@ -38,7 +38,7 @@ a{
 	color:#97a6b5
 }
 #main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{
-	background-color:#202833
+	background-color:#fff
 }
 .nav li ul{
 	border-color:rgba(46,163,242,0)
@@ -47,7 +47,7 @@ a{
 	background-color:#97a6b5
 }
 .et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{
-	color:#ffffff
+	color:#4a5d76
 }
 .et_search_form_container input::-moz-placeholder{
 	color:#ffffff
@@ -111,7 +111,7 @@ body .et_pb_button:hover,.woocommerce a.button.alt:hover,.woocommerce-page a.but
 		background-color:#97a6b5
 }
 	.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{
-		color:#ffffff!important
+		color:#4a5d76!important
 }
 	.et-fixed-header .et_search_form_container input::-moz-placeholder{
 		color:#ffffff!important
@@ -919,7 +919,7 @@ html.has-cookie-bar #main-header{
 	background-size:initial;
 	background-position:top left;
 	background-repeat:repeat;
-	background-image:url(https://kariresidence.com/wp-content/uploads/2017/11/header.jpg)
+	background-image:url(images/header_object.jpg)
 }
 .et_pb_row_0.et_pb_row{
 	padding-bottom:0px
